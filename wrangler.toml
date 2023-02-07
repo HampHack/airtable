@@ -1,0 +1,14 @@
+name = "hamphack-registration"
+main = "src/index.js"
+compatibility_date = "2022-11-01"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
+
+[vars]
+AIRTABLE_API_KEY = "pathduFEwXI1zHl1X.54056e3313e04734d058151bfda0f03698ca2c962299af8fe5dcf04a25c39cad"
+AIRTABLE_BASE_ID = "appcDo5YPh2UGb5oN"
+AIRTABLE_TABLE_NAME = "Registrations"
+FORM_URL = "https://hamphack.hampshire.edu/success"
